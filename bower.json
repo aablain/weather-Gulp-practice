@@ -1,0 +1,17 @@
+{
+  "name": "calculator_pingPong_js",
+  "description": "Calculator with pingpong associated to it",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/asonna/calculator-pingpong-javascript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
