@@ -1,5 +1,5 @@
 {
-  "name": "calculator_pingPong_js",
+  "name": "calculator_pingpong_js",
   "description": "Calculator with pingpong associated to it",
   "main": "index.js",
   "license": "ISC",
@@ -12,6 +12,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.1.1"
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.17.1"
   }
 }
