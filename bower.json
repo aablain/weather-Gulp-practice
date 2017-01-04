@@ -1,9 +1,9 @@
 {
-  "name": "calculator_pingpong_js",
-  "description": "Calculator with pingpong associated to it",
+  "name": "weather-javascript",
+  "description": "",
   "main": "index.js",
   "license": "ISC",
-  "homepage": "https://github.com/asonna/calculator-pingpong-javascript",
+  "homepage": "https://github.com/asonna",
   "ignore": [
     "**/.*",
     "node_modules",
